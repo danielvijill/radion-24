@@ -1,4 +1,4 @@
-#FITS Folder
+# FITS Folder
 
 The FITS files for the tutorial can be found here
 
